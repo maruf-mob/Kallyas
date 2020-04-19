@@ -1,6 +1,11 @@
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
+	.btn-top {
+	    z-index: 2;
+	}
+
+
 	.service .box {
 	    padding: 8%;
 	    
@@ -22,6 +27,10 @@
 
 	header {
 	    background-position: left;
+	}
+
+	.btn-top {
+	    z-index: 2;
 	}
 
 
@@ -97,6 +106,10 @@
 
 
 @media (min-width: 576px) and (max-width: 767px) {
+
+	.btn-top {
+	    z-index: 2;
+	}
 
 	.hero-area h1 {
 	    padding: 0;
@@ -239,6 +252,10 @@
 
 
 @media (min-width: 320px) and (max-width: 575px) {
+
+	.btn-top {
+	    z-index: 2;
+	}
 
 	.hero-area h1 {
 	    font-size: 30px;
